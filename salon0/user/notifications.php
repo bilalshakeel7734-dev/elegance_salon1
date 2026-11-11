@@ -1,0 +1,1 @@
+<?php require_once __DIR__ . '/../includes/layout.php'; require_once __DIR__ . '/../includes/shared.php'; page_notifications(require_client());
